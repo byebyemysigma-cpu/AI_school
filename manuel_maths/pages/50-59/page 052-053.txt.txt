@@ -1,0 +1,72 @@
+Manuel : Myriade Maths 4e
+Chapitre : 1
+Titre du chapitre : opérations sur les nombres relatifs
+Pages : 52-53
+
+Objectif de la page : utiliser un tableur et un logiciel pour automatiser des calculs et explorer des propriétés mathématiques.
+
+Cours / Explication : ces pages introduisent l’utilisation d’outils numériques (tableur, Scratch) pour effectuer des calculs plus rapidement et tester des conjectures. L’élève apprend à programmer des formules et à observer des résultats pour comprendre des propriétés.
+
+Exercices :
+
+Exercice 1 :
+Type : activité numérique
+Consigne : créer une feuille de calcul permettant de calculer des troncatures et arrondis
+Notions utilisées : division, arrondis, tableur
+
+Exercice 2 :
+Type : programmation
+Consigne : utiliser des fonctions du tableur pour automatiser des calculs
+Notions utilisées : fonctions, arrondi, troncature
+
+Exercice 3 :
+Type : exploration
+Consigne : tester différents nombres pour comparer troncature et arrondi
+Notions utilisées : nombres décimaux
+
+Exercice 4 :
+Type : recherche
+Consigne : trouver des nombres vérifiant certaines conditions sur les arrondis
+Notions utilisées : arrondi, raisonnement
+
+Exercice 5 :
+Type : problème
+Consigne : analyser des fractions selon leurs arrondis
+Notions utilisées : fractions, décimaux
+
+Exercice 6 :
+Type : activité tableur
+Consigne : créer un carré magique multiplicatif avec un tableur
+Notions utilisées : multiplications, tableur
+
+Exercice 7 :
+Type : programmation
+Consigne : écrire des formules pour compléter un tableau
+Notions utilisées : formules, produit
+
+Exercice 8 :
+Type : raisonnement
+Consigne : analyser les résultats obtenus et formuler une conclusion
+Notions utilisées : logique
+
+Exercice 9 :
+Type : algorithmique
+Consigne : utiliser Scratch pour tester une conjecture
+Notions utilisées : programme de calcul
+
+Exercice 10 :
+Type : conjecture
+Consigne : observer les résultats et formuler une règle générale
+Notions utilisées : calcul littéral, raisonnement
+
+Compétences :
+
+utiliser un tableur pour automatiser des calculs
+
+programmer des formules simples
+
+tester et valider une conjecture
+
+raisonner à partir d’expériences numériques
+
+utiliser des outils numériques en mathématiques

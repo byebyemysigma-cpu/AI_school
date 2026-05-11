@@ -1,0 +1,100 @@
+Manuel : Myriade Maths 4e
+Chapitre : 1
+Titre du chapitre : opérations sur les nombres relatifs
+Pages : 42-43
+
+Objectif de la page : effectuer des calculs avec des nombres relatifs, à la main ou à la calculatrice, en respectant les priorités opératoires et les règles des signes.
+
+Cours / Explication : les opérations sur les nombres relatifs suivent des règles de priorité : on effectue d’abord les calculs entre parenthèses, puis les multiplications et divisions, ensuite les additions et soustractions. Les règles des signes permettent de déterminer si le résultat d’un calcul est positif ou négatif. La compréhension de ces règles permet de calculer efficacement, que l’on utilise ou non une calculatrice.
+
+Exercices :
+
+Exercice 22 :
+Type : calculer
+Consigne : effectuer des calculs simples avec des nombres relatifs
+Notions utilisées : règles des signes, multiplications, additions, priorités opératoires
+
+Exercice 23 :
+Type : calculer
+Consigne : effectuer des calculs avec des additions, soustractions et multiplications
+Notions utilisées : règles des signes, opérations sur les relatifs, priorités
+
+Exercice 24 :
+Type : calculer
+Consigne : effectuer des calculs avec des nombres relatifs
+Notions utilisées : additions, soustractions, multiplications, règles des signes
+
+Exercice 25 :
+Type : calculer
+Consigne : effectuer des calculs et déterminer le résultat
+Notions utilisées : règles des signes, opérations simples
+
+Exercice 26 :
+Type : calculer
+Consigne : effectuer des calculs en respectant les priorités
+Notions utilisées : multiplications, soustractions, additions, règles des signes
+
+Exercice 27 :
+Type : calculer, compléter un tableau
+Consigne : effectuer des calculs entre nombres relatifs puis compléter les cases demandées
+Notions utilisées : règles des signes, multiplications, soustractions, additions, organisation des résultats dans un tableau
+
+Exercice 28 :
+Type : calculer des expressions littérales
+Consigne : remplacer les valeurs données dans les expressions puis calculer
+Notions utilisées : substitution, multiplications, additions, puissances, règles des signes
+
+Exercice 29 :
+Type : vérifier des égalités
+Consigne : vérifier si les calculs donnés sont égaux à 7 ou 3
+Notions utilisées : calcul d’expressions, règles des signes
+
+Exercice 31 :
+Type : déterminer le signe et calculer
+Consigne : déterminer le signe du résultat de plusieurs expressions, vérifier les résultats à la calculatrice et compléter des cases
+Notions utilisées : règles des signes, multiplications, divisions, additions, soustractions, utilisation de la calculatrice
+
+Exercice 34 :
+Type : programme de calcul
+Consigne : exécuter un programme de calcul, analyser les résultats obtenus et expliquer une erreur
+Notions utilisées : multiplication, addition, division, ordre des opérations, interprétation d’un programme
+
+Exercice 35 :
+Type : calculer
+Consigne : effectuer plusieurs calculs en respectant les priorités
+Notions utilisées : multiplications, additions, soustractions, règles des signes
+
+Exercice 36 :
+Type : ranger des nombres
+Consigne : mettre une liste de nombres dans l’ordre croissant
+Notions utilisées : comparaison de nombres relatifs
+
+Exercice 37 :
+Type : calculer et arrondir
+Consigne : effectuer des calculs puis donner les résultats arrondis au millième, ensuite les ranger dans l’ordre croissant
+Notions utilisées : opérations sur les relatifs, arrondis, comparaison de résultats
+
+Exercice 38 :
+Type : programme de calcul
+Consigne : déterminer le nombre de départ d’un programme et écrire l’expression correspondante
+Notions utilisées : étapes d’un programme de calcul, opérations, règles des signes
+
+Exercice 39 :
+Type : calculatrice
+Consigne : effectuer des calculs à la calculatrice et déterminer le résultat
+Notions utilisées : multiplications, additions, soustractions, règles des signes, usage de la calculatrice
+
+Exercice 40 :
+Type : déterminer le signe
+Consigne : analyser une expression liée à une situation physique et déterminer si le résultat est positif ou négatif
+Notions utilisées : règles des signes, multiplications, soustractions
+
+Exercice 41 :
+Type : calculer
+Consigne : effectuer rapidement plusieurs calculs
+Notions utilisées : priorités opératoires, règles des signes, multiplications, additions
+
+Compétences :
+comprendre le signe d'un nombre
+appliquer les règles de calcul avec les nombres relatifs
+maîtriser les règles de priorité opératoire

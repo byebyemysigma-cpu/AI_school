@@ -1,0 +1,77 @@
+Manuel : Myriade Maths 4ep
+Chapitre : 1
+Titre du chapitre : opérations sur les nombres relatifs
+Pages : 50-51
+
+Objectif de la page : réinvestir les connaissances sur les nombres relatifs à travers des exercices variés et ludiques, et développer le raisonnement logique.
+
+Cours / Explication : ces pages proposent des exercices d’entraînement sous différentes formes (jeux, problèmes, raisonnements). Les élèves doivent mobiliser les règles de calcul sur les nombres relatifs, les priorités opératoires et leur capacité à interpréter des situations.
+
+Exercices :
+
+Exercice 94 :
+Type : calcul et correction
+Consigne : analyser deux calculs effectués par des élèves, corriger les erreurs et donner le bon résultat
+Notions utilisées : priorités opératoires, règles des signes
+
+Exercice 95 :
+Type : problème
+Consigne : analyser un jeu de cartes avec des gains et pertes et compléter un tableau de scores
+Notions utilisées : additions et soustractions de nombres relatifs
+
+Exercice 96 :
+Type : problème
+Consigne : déterminer le résultat de cartes tirées dans un jeu en respectant les règles données
+Notions utilisées : additions, multiplications, nombres relatifs
+
+Exercice 97 :
+Type : calcul codé
+Consigne : effectuer des calculs pour colorier un dessin selon un code de couleurs
+Notions utilisées : opérations sur les nombres relatifs
+
+Exercice 98 :
+Type : activité
+Consigne : tester un programme de calcul, puis en créer un similaire
+Notions utilisées : multiplications, additions, raisonnement
+
+Exercice 99 :
+Type : jeu mathématique
+Consigne : compléter une grille de nombres croisés à partir de définitions
+Notions utilisées : calculs, logique
+
+Exercice 100 :
+Type : calcul
+Consigne : effectuer un calcul complexe avec plusieurs opérations
+Notions utilisées : priorités opératoires
+
+Exercice 101 :
+Type : défi
+Consigne : compléter des égalités avec des opérations et parenthèses
+Notions utilisées : opérations, raisonnement
+
+Exercice 102 :
+Type : énigme
+Consigne : trouver des nombres vérifiant une condition donnée sur leur somme et leur produit
+Notions utilisées : nombres relatifs, raisonnement
+
+Exercice 103 :
+Type : problème
+Consigne : trouver une fraction correspondant à un nombre décimal donné
+Notions utilisées : fractions, nombres décimaux
+
+Exercice 104 :
+Type : vrai/faux
+Consigne : dire si des affirmations sont vraies ou fausses et justifier
+Notions utilisées : puissances, nombres relatifs
+
+Compétences :
+
+effectuer des calculs avec des nombres relatifs
+
+respecter les priorités opératoires
+
+raisonner et justifier une réponse
+
+résoudre des problèmes variés
+
+interpréter des situations mathématiques

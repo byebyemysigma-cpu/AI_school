@@ -1,0 +1,136 @@
+Manuel : Myriade Maths 4e
+Chapitre : 1
+Titre du chapitre : les nombres relatifs
+Page : 40
+
+Objectif de la page : calculer des nombres relatifs
+
+Cours / Explication : les nombres relatifs sont des nombres qui possedent un signe : positif (+) ou negatif (-). Ils te servent a representer des quantites qui peuvent 
+augmenter ou diminuer, ils permettent aussi de comparer et calculer des situations ou pn passe en dessous ou au-dessus d'un point de reference (qui est 0)
+
+Exercices  :
+
+Exercice 1 :
+Type : calculer, trouver le resultat du calcul
+Consigne : effectuer des calculs avec des nombres relatifs et determiner le resultat 
+Notions utilisées : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 2 :
+Type : calculer 
+Consigne : effectuer des calcules avec des nombres relatifs et determiner le resultat  
+Notions utilisées : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 3 : 
+Type : calculer
+Consigne : effectuer des calculs avec des nombres relatifs et determiner le resultat 
+Notions utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 4 :
+Type : calculer 
+Consigne : effectuer des calculs avec des nombres relatifs, determiner le resultat et avec un valeur pour chaque lettre
+Notion utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 5 : 
+Type : calculer
+Consigne : effectuer des calculs avec des nombres relatifs et determiner le resultat 
+Notion utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 6 : 
+Type : calculer 
+Consigne : effectuer des calculs avec des nombres relatifs et determiner le resultat
+Notion utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 7 :
+Type :  calculer
+Consigne : effectuer des calculs avec des nombres relatifs et determiner le resultat 
+Notion utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+  
+Exercice 8 :
+Type : calculer 
+Consigne : effectuer des calculs avec des nombres relatifs et determiner un arrondi au centieme du resultat 
+Notion utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes, faire des arrondis au centieme 
+
+Exercice 9 : 
+Type : calculer 
+Consigne : effectuer des calculs avec des nombres relatifs et determiner le resultat
+Notion utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+
+Manuel : Myriade Maths 4e
+Chapitre : 1
+Titre du chapitre : les nombres relatifs
+Page : 41
+
+Objectif de la page :  calculer des nombres relatifs
+
+Cours / Explication :  les nombres relatifs sont des nombres qui possedent un signe : positif (+) ou negatif (-). Ils te servent a representer des quantites qui peuvent 
+augmenter ou diminuer, ils permettent aussi de comparer et calculer des situations ou pn passe en dessous ou au-dessus d'un point de reference (qui est 0)
+
+Exercices :
+
+Exercice 10 :
+Type : calculer
+Consigne : effectuer des calculs avec des nombres relatifs et determiner le resultat 
+Notions utilisées :  les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+  
+Exercice 11 :
+Type : calculer
+Consigne : trouver le nombre manquant d'une divisions, effectuer des calculs avec des nombres relatifs et determiner le resultat 
+Notions utilisées : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 12 :
+Type : calculer, completer le tableau 
+Consigne : effectuer des calcules avec des nombres relatifs, detreminer le resultat et completer le tableau 
+Notions uttilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 13 :
+Type : trouver le signe d'un nombre dans un calcule
+Consigne : determiner le signe d'un des chiffre du calcule
+Notions utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 14 :
+Type : calculer 
+Consigne : determiner le resultat, et relier le calcule au resultat
+Notions utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 15 :
+Type : calculer
+Consigne : faciliter le calcule, determiner le resultat 
+Notions utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 16 :
+Type : calculer
+Consigne :  effectuer des calculs avec des nombres relatifs et determiner le resultat 
+Notion utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 17 :
+Type : calculer, completer le tableau 
+Consigne : effectuer des calcules avec des nombres relatifs, detreminer le resultat et completer le tableau
+Notions utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 18 :
+Type : calculer
+Consigne : determiner le calcul egal au resultat 
+Notions u	tilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes 
+
+Exercice 19 :
+Type : inconnue
+Consigne : inconnue 
+Notions utilisees : inconnue 
+
+Exercice 20 :
+Type : determiner une moyenne 
+Consigne : determiner une moyenne avec un tableau 
+Notions utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes, determiner une moyenne 
+
+Exercice 21 :
+Type : calculer
+Consigne : determiner le chiffre de chaque case pour que tout soit egal 
+Notions utilisees : les signes, la distance a zero, regle d'addition, soustraction, multipliquation, division, des signes
+
+Competence : 
+- comprendre le signe d'un nombre 
+- appliquer les regles de calcul avec des nombres relatifs
+- maitriser les regles des signes
+
+Mots clés : nombres relatifs, calcul, signe, addition, soustraction, multiplication, division

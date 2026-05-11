@@ -1,0 +1,70 @@
+Manuel : Myriade Maths 4e
+Chapitre : 1
+Titre du chapitre : opérations sur les nombres relatifs
+Pages : 46-47
+
+Objectif de la page : résoudre des problèmes en utilisant les nombres relatifs et les opérations associées.
+
+Cours / Explication : les nombres relatifs permettent de représenter des situations où les quantités peuvent être positives ou négatives. Ils sont utilisés dans de nombreux contextes comme les températures, les altitudes, les comptes bancaires ou certains jeux. Pour résoudre des problèmes, il faut traduire la situation en calcul puis appliquer les règles des opérations sur les nombres relatifs.
+
+Exercices :
+
+Exercice 69 :
+Type : programme de calcul
+Consigne : appliquer un programme de calcul à plusieurs nombres et observer les résultats
+Notions utilisées : multiplications, divisions, nombres relatifs
+
+Exercice 70 :
+Type : argumentation
+Consigne : analyser une affirmation concernant les produits de nombres et expliquer si elle est correcte
+Notions utilisées : règles des signes
+
+Exercice 71 :
+Type : problème
+Consigne : calculer le temps nécessaire pour parcourir une distance verticale entre deux étages
+Notions utilisées : soustraction, nombres relatifs, vitesse
+
+Exercice 72 :
+Type : raisonnement
+Consigne : répondre à plusieurs questions sur le signe d’un produit et la somme de nombres relatifs
+Notions utilisées : règles des signes, produits et sommes
+
+Exercice 73 :
+Type : compléter une pyramide de calcul
+Consigne : compléter les pyramides en appliquant les règles données
+Notions utilisées : additions ou multiplications entre nombres relatifs
+
+Exercice 74 :
+Type : application scientifique
+Consigne : déterminer les charges positives et négatives dans différents ions
+Notions utilisées : soustractions, nombres relatifs, interprétation scientifique
+
+Exercice 75 :
+Type : problème de situation réelle
+Consigne : analyser un relevé bancaire puis déterminer un solde et effectuer des calculs
+Notions utilisées : additions, soustractions, nombres relatifs
+
+Exercice 76 :
+Type : problème
+Consigne : analyser un jeu de fléchettes et déterminer le score final
+Notions utilisées : additions et soustractions de nombres relatifs
+
+Exercice 77 :
+Type : problème
+Consigne : déterminer le nombre de points restant sur un permis de conduire après plusieurs infractions
+Notions utilisées : multiplications, soustractions, nombres relatifs
+
+Exercice 78 :
+Type : problème
+Consigne : analyser une facture d’électricité et répondre à plusieurs questions sur les consommations
+Notions utilisées : nombres relatifs, interprétation de données, arrondis
+
+Compétences :
+
+résoudre des problèmes avec des nombres relatifs
+
+interpréter une situation réelle avec des calculs
+
+appliquer les règles des opérations sur les nombres relatifs
+
+raisonner et expliquer une réponse

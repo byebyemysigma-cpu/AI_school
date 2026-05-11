@@ -1,0 +1,58 @@
+Manuel : Myriade Maths 4e
+Chapitre : 2
+Titre du chapitre : nombres en écriture fractionnaire
+Pages : 56-57
+
+Objectif de la page : découvrir les opérations sur les fractions (comparaison, multiplication, division) et comprendre les situations de proportionnalité.
+
+Cours / Explication : ces pages introduisent les fractions et leurs opérations. Les élèves apprennent à décomposer des nombres en facteurs premiers pour comparer des fractions, à multiplier et diviser des fractions, et à utiliser les produits en croix dans des situations de proportionnalité.
+
+Exercices :
+
+Exercice 1 :
+Type : décomposition et comparaison
+Consigne : utiliser les nombres premiers pour décomposer des nombres et comparer des fractions
+Notions utilisées : nombres premiers, fractions
+
+Exercice 2 :
+Type : calcul
+Consigne : représenter une situation avec des fractions et déterminer une proportion
+Notions utilisées : multiplication de fractions
+
+Exercice 3 :
+Type : calcul
+Consigne : effectuer des produits de fractions et conjecturer une règle
+Notions utilisées : multiplication de fractions
+
+Exercice 4 :
+Type : démonstration
+Consigne : démontrer la règle de multiplication des fractions
+Notions utilisées : fractions, raisonnement
+
+Exercice 5 :
+Type : calcul
+Consigne : déterminer l’inverse d’un nombre et effectuer des calculs
+Notions utilisées : inverse, division
+
+Exercice 6 :
+Type : calcul
+Consigne : effectuer des divisions de fractions
+Notions utilisées : division, inverse
+
+Exercice 7 :
+Type : conjecture
+Consigne : observer des calculs et formuler une règle générale
+Notions utilisées : division de fractions
+
+Exercice 8 :
+Type : problème
+Consigne : résoudre une situation de proportionnalité avec un ressort
+Notions utilisées : produits en croix, proportionnalité
+
+Compétences :
+
+décomposer des nombres en facteurs premiers
+comparer des fractions
+multiplier et diviser des fractions
+utiliser l’inverse d’un nombre
+résoudre des problèmes de proportionnalité

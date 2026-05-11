@@ -1,0 +1,37 @@
+Manuel : Myriade Maths 4e
+Chapitre : 1 et 2
+Titre du chapitre : transition vers les fractions
+Pages : 54-55
+
+Objectif de la page : résoudre des problèmes complexes et introduire le nouveau chapitre sur les nombres en écriture fractionnaire.
+
+Cours / Explication : la première page propose des tâches complexes faisant appel aux connaissances sur les nombres relatifs dans des situations concrètes. La seconde page introduit les fractions, leur utilisation et les objectifs du nouveau chapitre.
+
+Exercices :
+
+Exercice 1 :
+Type : tâche complexe
+Consigne : convertir des températures de Fahrenheit en Celsius et analyser des mesures
+Notions utilisées : calculs, formule, nombres relatifs
+
+Exercice 2 :
+Type : problème
+Consigne : analyser une situation de prêt d’argent et déterminer s’il s’agit d’une arnaque
+Notions utilisées : calculs, raisonnement
+
+Exercice 3 :
+Type : introduction
+Consigne : comprendre les objectifs du chapitre sur les fractions
+Notions utilisées : fractions
+
+Compétences :
+
+résoudre des problèmes complexes
+
+utiliser des formules mathématiques
+
+interpréter des situations concrètes
+
+découvrir et comprendre les fractions
+
+préparer l’apprentissage d’un nouveau chapitre

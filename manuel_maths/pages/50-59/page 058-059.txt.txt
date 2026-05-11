@@ -1,0 +1,58 @@
+Manuel : Myriade Maths 4e
+Chapitre : 2
+Titre du chapitre : nombres en écriture fractionnaire
+Pages : 58-59
+
+Objectif de la page : comprendre et maîtriser les règles de calcul sur les fractions (simplification, addition, multiplication, division).
+
+Cours / Explication : ces pages présentent les définitions et propriétés essentielles sur les fractions. Les élèves apprennent à simplifier des fractions, à les additionner et soustraire avec un même dénominateur, à les multiplier et à les diviser en utilisant l’inverse.
+
+Exercices :
+
+Exercice 1 :
+Type : cours
+Consigne : comprendre la définition d’un nombre rationnel
+Notions utilisées : fractions, quotient
+
+Exercice 2 :
+Type : cours
+Consigne : identifier et utiliser les nombres premiers
+Notions utilisées : nombres premiers
+
+Exercice 3 :
+Type : propriété
+Consigne : simplifier une fraction à l’aide de la décomposition en facteurs premiers
+Notions utilisées : simplification
+
+Exercice 4 :
+Type : propriété
+Consigne : utiliser l’égalité des produits en croix
+Notions utilisées : proportionnalité
+
+Exercice 5 :
+Type : calcul
+Consigne : additionner et soustraire des fractions
+Notions utilisées : fractions, dénominateur commun
+
+Exercice 6 :
+Type : propriété
+Consigne : multiplier des fractions
+Notions utilisées : multiplication
+
+Exercice 7 :
+Type : propriété
+Consigne : comprendre la notion d’inverse
+Notions utilisées : inverse
+
+Exercice 8 :
+Type : propriété
+Consigne : diviser des fractions en utilisant l’inverse
+Notions utilisées : division
+
+Compétences :
+
+simplifier des fractions
+effectuer des additions et soustractions de fractions
+multiplier des fractions
+diviser des fractions
+utiliser les propriétés des nombres rationnels

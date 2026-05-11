@@ -1,0 +1,155 @@
+Manuel : Myriade Maths 4e
+Chapitre : 1
+Titre du chapitre : opérations sur les nombres relatifs
+Pages : 44-45
+
+Objectif de la page : calculer avec des nombres relatifs, utiliser les règles des signes, effectuer des calculs à la main ou à la calculatrice et appliquer les priorités opératoires.
+
+Cours / Explication : les nombres relatifs peuvent être positifs ou négatifs et ils suivent des règles précises lors des calculs. Lorsqu’on effectue plusieurs opérations dans une expression, il faut respecter l’ordre des priorités : parenthèses, multiplications et divisions, puis additions et soustractions. Les règles des signes permettent de déterminer si le résultat est positif ou négatif. La calculatrice peut être utilisée pour vérifier les résultats.
+
+Exercices :
+
+Exercice 42 :
+Type : choisir le bon résultat
+Consigne : calculer les expressions puis choisir la bonne réponse parmi plusieurs propositions
+Notions utilisées : multiplications, divisions, règles des signes, calculs avec nombres relatifs
+
+Exercice 43 :
+Type : calculer
+Consigne : effectuer les calculs avec des nombres relatifs
+Notions utilisées : multiplications, nombres décimaux, règles des signes
+
+Exercice 44 :
+Type : calculer
+Consigne : effectuer une division avec des nombres relatifs et déterminer le résultat
+Notions utilisées : divisions, règles des signes
+
+Exercice 45 :
+Type : comprendre une propriété
+Consigne : déterminer l’énoncé correct concernant le produit de plusieurs nombres relatifs
+Notions utilisées : règles des signes dans un produit
+
+Exercice 46 :
+Type : calculer
+Consigne : effectuer une expression comportant plusieurs opérations
+Notions utilisées : priorités opératoires, multiplications, additions, soustractions
+
+Exercice 47 :
+Type : calculer
+Consigne : effectuer plusieurs calculs avec des nombres relatifs
+Notions utilisées : additions, soustractions, règles des signes
+
+Exercice 48 :
+Type : calculer
+Consigne : effectuer les calculs demandés
+Notions utilisées : multiplications, règles des signes
+
+Exercice 49 :
+Type : calculer des produits
+Consigne : effectuer les produits entre nombres relatifs
+Notions utilisées : multiplications, règles des signes
+
+Exercice 50 :
+Type : calculer des quotients
+Consigne : effectuer les divisions entre nombres relatifs
+Notions utilisées : divisions, règles des signes
+
+Exercice 51 :
+Type : calculer
+Consigne : effectuer les quotients suivants
+Notions utilisées : divisions, règles des signes
+
+Exercice 52 :
+Type : arrondir
+Consigne : donner l’arrondi à l’unité de plusieurs quotients
+Notions utilisées : divisions, arrondis
+
+Exercice 53 :
+Type : calculer et arrondir
+Consigne : calculer une fraction puis déterminer les arrondis et la troncature
+Notions utilisées : divisions, nombres décimaux, arrondis, troncature
+
+Exercice 54 :
+Type : calculer des produits
+Consigne : effectuer des produits comportant plusieurs facteurs
+Notions utilisées : multiplications, règles des signes
+
+Exercice 55 :
+Type : déterminer un signe
+Consigne : donner rapidement le signe de chaque produit
+Notions utilisées : règles des signes dans un produit
+
+Exercice 56 :
+Type : problème
+Consigne : déterminer la variation de température d’un congélateur par heure
+Notions utilisées : soustraction, division, interprétation d’une situation concrète
+
+Exercice 57 :
+Type : calculer
+Consigne : effectuer les calculs à la main
+Notions utilisées : multiplications, soustractions, règles des signes
+
+Exercice 58 :
+Type : calculer
+Consigne : effectuer les calculs à la main
+Notions utilisées : priorités opératoires, multiplications, additions, soustractions
+
+Exercice 59 :
+Type : calculer
+Consigne : effectuer les calculs à la main et déterminer le résultat
+Notions utilisées : multiplications, divisions, priorités opératoires
+
+Exercice 60 :
+Type : écrire une expression
+Consigne : écrire chaque calcul en une seule expression puis déterminer le résultat
+Notions utilisées : priorités opératoires, multiplications, additions, divisions
+
+Exercice 61 :
+Type : trouver un nombre manquant
+Consigne : déterminer le nombre qui doit être placé dans les cases pour obtenir le résultat donné
+Notions utilisées : opérations sur les nombres relatifs, raisonnement inverse
+
+Exercice 62 :
+Type : associer
+Consigne : associer les calculs qui donnent le même résultat
+Notions utilisées : puissances, additions, soustractions
+
+Exercice 63 :
+Type : calculer à la calculatrice
+Consigne : calculer les expressions puis comparer les résultats
+Notions utilisées : multiplications, puissances, priorités opératoires
+
+Exercice 64 :
+Type : calculer
+Consigne : calculer les expressions suivantes
+Notions utilisées : priorités opératoires, multiplications, divisions, soustractions
+
+Exercice 65 :
+Type : calculer avec des lettres
+Consigne : remplacer les valeurs données puis calculer les expressions
+Notions utilisées : expressions littérales, multiplications, additions
+
+Exercice 66 :
+Type : calculer et vérifier
+Consigne : effectuer les calculs puis vérifier les résultats avec une calculatrice
+Notions utilisées : priorités opératoires, fractions, multiplications, additions
+
+Exercice 67 :
+Type : déterminer un signe
+Consigne : déterminer le signe d’expressions sans calculer puis vérifier à la calculatrice
+Notions utilisées : règles des signes, puissances
+
+Exercice 68 :
+Type : message codé
+Consigne : effectuer les calculs puis classer les résultats pour découvrir un message
+Notions utilisées : opérations sur les nombres relatifs, comparaison de résultats
+
+Compétences :
+
+appliquer les règles de calcul avec les nombres relatifs
+
+respecter les priorités opératoires
+
+déterminer le signe d’un résultat
+
+utiliser la calculatrice pour vérifier un calcul

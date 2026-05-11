@@ -1,0 +1,97 @@
+Manuel : Myriade Maths 4e
+Chapitre : 1
+Titre du chapitre : opérations sur les nombres relatifs
+Pages : 48-49
+
+Objectif de la page : développer ses compétences de calcul et de raisonnement avec les nombres relatifs et appliquer ces compétences dans des situations variées.
+
+Cours / Explication : les nombres relatifs permettent d’effectuer des calculs dans de nombreuses situations mathématiques. Pour résoudre correctement les exercices, il faut maîtriser les règles des signes, les priorités opératoires et savoir raisonner pour vérifier si une affirmation est vraie ou fausse. Les calculs peuvent être effectués mentalement, à la main ou avec une calculatrice selon la difficulté.
+
+Exercices :
+
+Exercice 79 :
+Type : calcul mental
+Consigne : effectuer mentalement un calcul comportant plusieurs multiplications de nombres relatifs
+Notions utilisées : multiplications, règles des signes, calcul mental
+
+Exercice 80 :
+Type : calcul mental
+Consigne : effectuer plusieurs calculs mentalement avec des nombres relatifs et des nombres décimaux
+Notions utilisées : multiplications, règles des signes, calcul mental
+
+Exercice 81 :
+Type : calcul mental
+Consigne : effectuer des calculs mentalement en utilisant les règles des signes
+Notions utilisées : multiplications, nombres décimaux, règles des signes
+
+Exercice 82 :
+Type : calcul mental
+Consigne : effectuer plusieurs calculs mentalement avec des nombres relatifs
+Notions utilisées : multiplications, nombres décimaux, règles des signes
+
+Exercice 83 :
+Type : raisonnement
+Consigne : analyser une affirmation sur les nombres relatifs et déterminer si elle est vraie ou fausse
+Notions utilisées : règles des signes, raisonnement logique
+
+Exercice 84 :
+Type : raisonnement
+Consigne : montrer qu’une affirmation sur les nombres relatifs est fausse
+Notions utilisées : opposé d’un nombre, raisonnement
+
+Exercice 85 :
+Type : raisonnement
+Consigne : montrer qu’une affirmation concernant le carré d’une somme est fausse
+Notions utilisées : puissances, opérations sur les nombres relatifs
+
+Exercice 86 :
+Type : raisonnement
+Consigne : analyser une affirmation sur les produits de nombres relatifs et montrer si elle est fausse
+Notions utilisées : multiplications, opposé d’un nombre
+
+Exercice 87 :
+Type : raisonnement
+Consigne : montrer qu’une affirmation sur le quotient de deux nombres relatifs est fausse
+Notions utilisées : divisions, opposé d’un nombre
+
+Exercice 88 :
+Type : problème
+Consigne : analyser un concours de mathématiques et déterminer le classement des participants selon les règles de points
+Notions utilisées : additions, soustractions, calculs avec nombres relatifs
+
+Exercice 89 :
+Type : défi
+Consigne : trouver trois nombres entiers différents dont le produit donne un résultat donné
+Notions utilisées : multiplications, raisonnement
+
+Exercice 90 :
+Type : programme de calcul
+Consigne : appliquer deux programmes de calcul, comparer les résultats et écrire les expressions correspondantes
+Notions utilisées : multiplications, additions, soustractions, raisonnement algébrique
+
+Exercice 91 :
+Type : interprétation graphique
+Consigne : analyser un graphique représentant des températures et calculer une moyenne annuelle
+Notions utilisées : nombres relatifs, moyenne, lecture de graphique
+
+Exercice 92 :
+Type : création d’un jeu
+Consigne : créer un jeu de dominos utilisant des calculs avec des nombres relatifs
+Notions utilisées : multiplications, additions, soustractions, nombres relatifs
+
+Exercice 93 :
+Type : calcul et raisonnement
+Consigne : utiliser plusieurs nombres donnés pour obtenir un résultat précis en une seule ligne de calcul
+Notions utilisées : opérations sur les nombres relatifs, raisonnement
+
+Compétences :
+
+effectuer des calculs mentalement avec des nombres relatifs
+
+utiliser les règles des signes dans des calculs
+
+raisonner pour vérifier une affirmation mathématique
+
+résoudre des problèmes avec des nombres relatifs
+
+interpréter des situations mathématiques et des graphiques
