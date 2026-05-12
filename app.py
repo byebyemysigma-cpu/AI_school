@@ -1,11 +1,10 @@
 from flask import Flask, request
-from main import *
 import os
 
 
 app = Flask(__name__)
 
-exercices = lire_pages()
+exercices = []
 
 
 
@@ -113,7 +112,7 @@ button:hover {{
 
 <div class="topbar">
     <h2>IA School</h2>
-    <p>créé par romeo • Assistant </p>
+    <p>créé par wo • Assistant </p>
 </div>
 
 <div class="main">
