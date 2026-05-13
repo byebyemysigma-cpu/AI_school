@@ -8,6 +8,9 @@ DOSSIER = os.path.join(BASE_DIR, "manuel_maths", "pages")
 def lire_pages():
     exercices = []
 
+    print("📁 DOSSIER =", DOSSIER)
+    print("📁 EXISTE =", os.path.exists(DOSSIER))
+    
     for root, dirs, files in os.walk(DOSSIER):
         for fichier in files:
             if fichier.endswith(".txt"):
