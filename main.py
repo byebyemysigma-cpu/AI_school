@@ -40,6 +40,10 @@ def chercher_page_exo(page, numero, exercices):
     for exo in exercices:
         fichier = exo["fichier"]
 
+        print("📄 Fichier :", fichier)
+        print("📘 Page demandée :", page)
+        print("🧠 Titre exercice :", exo["titre"])
+        
         # 🔥 vérifier la page dans le NOM DU FICHIER (beaucoup plus fiable)
         if page in fichier:
             if f"exercice {numero}" in exo["titre"]:
