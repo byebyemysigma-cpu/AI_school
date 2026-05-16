@@ -2,6 +2,8 @@ import os
 import re
 import subprocess
 
+print("🔥 TEST RENDER UNIQUE 🔥")
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DOSSIER = os.path.join(BASE_DIR, "manuel_maths", "pages")
 
@@ -39,7 +41,7 @@ def chercher_page_exo(page, numero, exercices):
 
     for exo in exercices:
         fichier = exo["fichier"]
-        
+
         print("📄 Fichier :", fichier)
         print("📘 Page demandée :", page)
         print("🧠 Titre exercice :", exo["titre"])
