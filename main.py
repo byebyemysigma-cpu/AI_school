@@ -8,7 +8,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DOSSIER = os.path.join(BASE_DIR, "manuel_maths", "pages")
 
 def lire_pages():
-    exercices = []
+    exercices = lire_pages()
 
     print("📁 DOSSIER =", DOSSIER)
     print("📁 EXISTE =", os.path.exists(DOSSIER))
@@ -19,7 +19,7 @@ def lire_pages():
                 chemin = os.path.join(root, fichier)
 
                 with open(chemin, "r", encoding="utf-8") as f:
-                    
+
                     contenu = f.read().lower()
 
                     blocs = re.split(r"(exercice \d+ ?\:)", contenu)
@@ -170,23 +170,3 @@ def trouver_exercices_page(page):
 
         return exercices
     
-    exercices = lire_pages()
-    print("📚 Fichiers analysés :", len(exercices))
-    
-    if __name__ == "__main__":
-        
-        while True:
-            mode = input("\nMode (page / quit) : ")
-            
-            if mode == "quit":
-                break
-            
-            if mode == "page":
-                page = input("Numéro de page : ")
-                exo_num = input("Numéro de l'exercice : ")
-                exo = chercher_page_exo(page, exo_num, exercices)
-            
-            
-            if exo:
-                afficher_image(page)
-                resoudre_exercice(exo)
