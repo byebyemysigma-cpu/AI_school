@@ -4,6 +4,8 @@ import subprocess
 
 print("🔥 TEST RENDER UNIQUE 🔥")
 
+print("📚 Nombre exercices chargés :", len(exercices))
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DOSSIER = os.path.join(BASE_DIR, "manuel_maths", "pages")
 
