@@ -4,7 +4,9 @@ from main import *
 
 app = Flask(__name__)
 
-exercices = []
+exercices = lire_pages()
+
+print("📚 Nombre exercices chargés :", len(exercices))
 
 
 
