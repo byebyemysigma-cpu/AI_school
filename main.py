@@ -19,6 +19,7 @@ def lire_pages():
                 chemin = os.path.join(root, fichier)
 
                 with open(chemin, "r", encoding="utf-8") as f:
+                    
                     contenu = f.read().lower()
 
                     blocs = re.split(r"(exercice \d+ ?\:)", contenu)
